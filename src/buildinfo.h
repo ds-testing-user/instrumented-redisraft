@@ -1,0 +1,1 @@
+#define REDISRAFT_GIT_SHA1 "c259f3d2"
